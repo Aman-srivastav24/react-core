@@ -1,0 +1,13 @@
+**VIRTUAL DOM**
+- Now a days virtual is not used as much in React because a lot of concept is changed .
+//What is createRoot method?
+Behind the scene it create a dom like structure just like browser has.
+why it create dom ? because it compare browser's dom with his dom and update only those thing which is updated in ui. but our browser remove all dom and again reload it this is also call page reloading. 
+
+//What is hydration
+In the browser first buttons animation loads and then js is injected to it to enables the functions of website this process is Hydration.
+
+//Props
+  
+
+**React Fiber**
